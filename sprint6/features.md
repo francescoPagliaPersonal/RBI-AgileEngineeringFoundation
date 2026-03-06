@@ -18,6 +18,9 @@ transforming hours of research into minutes of guided decision-making. The conve
 product catalogs accessible to everyone while educating customers and building their confidence. By combining efficiency 
 with explanation, the AI helps customers find exactly the right tool for their needs and transforms one-time buyers 
 into knowledgeable repeat customers.
+## Goal
+## Acceptance Criteria
+
 
 # F3: Test Automation Dashboard
 The Test Automation Dashboard is the invisible foundation ensuring platform reliability. By providing real-time 
@@ -25,6 +28,8 @@ visibility into quality metrics, we catch bugs before customers encounter them, 
 damage that comes from checkout failures or tax miscalculations. This quality assurance enables us to innovate rapidly 
 while maintaining the reliability professionals demand, creating a sustainable competitive advantage through the
 virtuous cycle of quality, trust, and continuous improvement.
+## Goal
+## Acceptance Criteria
 
 # F4: Currency & Tax Adaptation
 Currency & Tax Adaptation enables true global accessibility by delivering localized experiences in each market. 
@@ -32,6 +37,8 @@ Customers see prices in their local currency with accurate tax calculations base
 confusion and cart abandonment. Starting with the US market, this feature creates scalable infrastructure for 
 expansion into additional regions, transforming Roy's Roy's from a European shop into a genuinely global marketplace
 serving professionals worldwide.
+## Goal
+## Acceptance Criteria
 
 # F5: Accessibility
 Accessibility ensures every customer can shop independently by implementing WCAG 2.1 AA standards, keyboard navigation, 
@@ -39,3 +46,5 @@ and screen reader support. This unlocks an underserved market of 1.3 billion peo
 the experience for all users through universal design principles. Features built for accessibility benefit everyone, 
 from mobile users to those seeking clearer navigation, positioning us as an ethical industry leader while making our 
 platform fundamentally better for all customers.
+## Goal
+## Acceptance Criteria
