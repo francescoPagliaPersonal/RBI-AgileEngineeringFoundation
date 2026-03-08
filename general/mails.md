@@ -63,11 +63,11 @@ Pre-Requisite:
   - Explore the RBI AE Repo to get familiar with the program (https://github.com/rgroetz2/RBI-AgileEngineeringFoundation/tree/main) and the user-stories that must be implemented.
 
 - Familiarity with Scrum
-Before embarking on this exciting journey, we kindly request that participants familiarize themselves with the 
-foundational concepts of Scrum by exploring the resources available on Scrum.org. This will provide you with a 
-rough but valuable overview of Scrum principles, roles, and practices, ensuring that you have a solid foundation 
-to build upon during the course.
-Read: https://www.scrum.org/learning-series/what-is-scrum
+  - Before embarking on this exciting journey, we kindly request that participants familiarize themselves with the 
+  foundational concepts of Scrum by exploring the resources available on Scrum.org. This will provide you with a 
+  rough but valuable overview of Scrum principles, roles, and practices, ensuring that you have a solid foundation 
+  to build upon during the course.
+  Read: https://www.scrum.org/learning-series/what-is-scrum
 
 
 
