@@ -8,6 +8,7 @@
 - Feature List is available 
 - Physical Scrum Board is available and ready for sprint 6.1
 - All UI-Defect on Homepage are fixed
+- Team Members know their main responsibility (PO, BA, DEV, TE)
 
 ## Sprint 6.1
 - Regression Tests for login and registration are implemented
