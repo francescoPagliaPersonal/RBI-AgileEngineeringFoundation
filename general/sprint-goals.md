@@ -1,6 +1,6 @@
 # Sprint Goal
 
-## Sprint 6.ZERO (10:00-13:00)
+## Sprint 6.ZERO (10:00-13:00) (US Ready ESG)
 - Infrastructure
   - ToolShop is running local on each team members workstation
   - Playwright is installed on each team members workstation
@@ -17,7 +17,7 @@
 
 
 
-## Sprint 6.1 (13:45-15:00)
+## Sprint 6.1 (13:45-15:00) (US Ready Payment)
 - Regression Tests for login and registration are implemented
 - User can pay via AfterPay
 - Shop is GDPR ready (GDPR Statement)
